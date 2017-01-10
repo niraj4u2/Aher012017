@@ -14,13 +14,13 @@
     "android.permission.WRITE_EXTERNAL_STORAGE"
   ],
   "CorePlugins": [
+    "com.phonegap.plugins.barcodescanner@6.0.3",
     "cordova-plugin-console",
     "cordova-plugin-device",
     "cordova-plugin-dialogs",
     "cordova-plugin-splashscreen",
     "cordova-plugin-statusbar",
-    "cordova-plugin-whitelist",
-    "com.phonegap.plugins.barcodescanner@6.0.3"
+    "cordova-plugin-whitelist"
   ],
   "DeviceOrientations": [
     "Portrait",
@@ -34,9 +34,9 @@
     "ID_RESOLUTION_HD720P"
   ],
   "BundleVersion": "1.0.3",
-  "DisplayName": "Barcode demo",
+  "DisplayName": "Aherbook",
   "Author": "Telerik",
-  "Description": "BarcodeScanner-DemoApp",
+  "Description": "Aherbook\n",
   "WP8Capabilities": [
     "ID_CAP_IDENTITY_DEVICE",
     "ID_CAP_NETWORKING",
